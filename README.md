@@ -30,10 +30,14 @@ Building a social-commerce automation platform for local brands, focused on AI-p
 
 Kalemly is where I combine backend architecture, AI agents, SaaS operations, payment workflows, and production reliability into one product.
 
+**Links:** [Website](https://kalemly.com) · [GitHub Organization](https://github.com/Kalemly)
+
 </td>
 <td width="30%" align="center">
 
 [![Kalemly](https://img.shields.io/badge/Kalemly-Founder--CTO-7C3AED?style=for-the-badge&logo=wechat&logoColor=white)](https://kalemly.com)
+
+[![GitHub Org](https://img.shields.io/badge/GitHub%20Org-Kalemly-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalemly)
 
 ![AI Commerce](https://img.shields.io/badge/AI%20Commerce-2563EB?style=flat-square)
 ![Automation](https://img.shields.io/badge/Automation-16A34A?style=flat-square)
@@ -154,6 +158,6 @@ Good architecture should make systems easier to change, not harder to understand
 
 ### Currently interested in production-grade AI agents, multi-tenant SaaS, realtime voice systems, Android architecture, security, caching, and infrastructure automation.
 
-[GitHub](https://github.com/Lyrnic) · [Kalemly](https://kalemly.com)
+[GitHub](https://github.com/Lyrnic) · [Kalemly](https://kalemly.com) · [Kalemly GitHub Org](https://github.com/Kalemly)
 
 </div>
