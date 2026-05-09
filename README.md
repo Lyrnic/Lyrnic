@@ -18,6 +18,33 @@ I build production-grade systems with a focus on clean architecture, reliability
 
 ---
 
+## Building Kalemly
+
+<table>
+<tr>
+<td width="70%">
+
+### Founder-CTO at [Kalemly](https://kalemly.com)
+
+Building a social-commerce automation platform for local brands, focused on AI-powered customer conversations, order handling, payment validation, and human handoff workflows.
+
+Kalemly is where I combine backend architecture, AI agents, SaaS operations, payment workflows, and production reliability into one product.
+
+</td>
+<td width="30%" align="center">
+
+[![Kalemly](https://img.shields.io/badge/Kalemly-Founder--CTO-7C3AED?style=for-the-badge&logo=wechat&logoColor=white)](https://kalemly.com)
+
+![AI Commerce](https://img.shields.io/badge/AI%20Commerce-2563EB?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-16A34A?style=flat-square)
+![SaaS](https://img.shields.io/badge/SaaS-F97316?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## What I Build
 
 <table>
@@ -127,6 +154,6 @@ Good architecture should make systems easier to change, not harder to understand
 
 ### Currently interested in production-grade AI agents, multi-tenant SaaS, realtime voice systems, Android architecture, security, caching, and infrastructure automation.
 
-[GitHub](https://github.com/Lyrnic)
+[GitHub](https://github.com/Lyrnic) · [Kalemly](https://kalemly.com)
 
 </div>
