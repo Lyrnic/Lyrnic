@@ -1,75 +1,105 @@
-# Seif Ashraf — Lyrnic
+<div align="center">
 
-**Senior Software Engineer building AI systems, backend infrastructure, Android products, and scalable SaaS platforms.**
+# Seif Ashraf · Lyrnic
 
-I care about clean architecture, system reliability, edge-case handling, security, and turning complex product ideas into maintainable production systems.
+### Senior Software Engineer · Founder-CTO · Backend, AI Systems, Android & SaaS Architecture
 
-```txt
-Backend     AI Systems     Android     SaaS Architecture     Security     Infrastructure
-```
+I build production-grade systems with a focus on clean architecture, reliability, security, and ruthless edge-case handling.
+
+<br />
+
+![Backend](https://img.shields.io/badge/Backend-111827?style=for-the-badge)
+![AI Systems](https://img.shields.io/badge/AI%20Systems-111827?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-111827?style=for-the-badge)
+![SaaS](https://img.shields.io/badge/SaaS%20Architecture-111827?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-111827?style=for-the-badge)
+
+</div>
 
 ---
 
-## Engineering Focus
+## What I Build
 
-### Backend & SaaS Architecture
-Designing APIs, service layers, authentication flows, caching strategies, multi-tenant platforms, dashboards, and infrastructure that can grow without collapsing into chaos.
+<table>
+<tr>
+<td width="50%">
+
+### Backend & SaaS Platforms
+APIs, authentication, caching, dashboards, multi-tenancy, audit logs, and infrastructure for systems that need to survive real production usage.
+
+</td>
+<td width="50%">
 
 ### AI Systems
-Building AI-powered backend workflows, agent orchestration, provider strategies, RAG-style systems, voice-agent infrastructure, realtime pipelines, and production-safe automation layers.
+Agent workflows, provider orchestration, RAG-style systems, voice pipelines, realtime events, and production-safe automation layers.
 
-### Android Engineering
-Native Android development with Kotlin, Java, Jetpack Compose, clean architecture, Room, Hilt, coroutines, and lifecycle-safe application design.
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Android Products
+Native Android apps using Kotlin, Java, Jetpack Compose, clean architecture, Room, Hilt, coroutines, and lifecycle-safe design.
+
+</td>
+<td width="50%">
 
 ### Security & Integrity
-Experience with custom integrity validation, certificate-chain verification, device trust signals, backend-backed protection, and abuse-resistant API design.
+Custom integrity validation, certificate-chain verification, device trust signals, abuse-resistant APIs, and backend-backed protection.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Selected Work
 
-### Viking Player
-Android media application with **100K+ downloads** and strong user ratings. Built with focus on performance, reliability, UX, and production stability.
-
-### Custom Integrity Systems
-Designed and implemented backend-backed integrity validation systems as an alternative to relying fully on third-party attestation APIs.
-
-### AI & Voice Agent Infrastructure
-Worked on low-latency AI conversation systems, including VAD, STT/TTS orchestration, realtime event handling, provider fallback strategies, and transcript/event consistency.
-
-### SaaS & Dashboard Platforms
-Architected backend and dashboard systems for multi-tenant SaaS workflows, including authentication, audit logs, automation, and business operations tooling.
+| Area | Work |
+| --- | --- |
+| **Android Product** | Built **Viking Player**, an Android media app with **100K+ downloads** and strong user ratings. |
+| **Integrity Systems** | Designed backend-backed validation systems as an alternative to relying fully on third-party attestation APIs. |
+| **AI Infrastructure** | Worked on low-latency voice/conversation systems with VAD, STT/TTS orchestration, realtime events, and provider fallback strategies. |
+| **SaaS Platforms** | Architected multi-tenant SaaS workflows including authentication, audit logs, automation, dashboards, and business operations tooling. |
 
 ---
 
 ## Tech Stack
 
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript)
+![Kotlin](https://img.shields.io/badge/Kotlin-111827?style=flat-square&logo=kotlin)
+![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react)
+![Android](https://img.shields.io/badge/Android-111827?style=flat-square&logo=android)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-111827?style=flat-square&logo=cloudflare)
+
+</div>
+
+---
+
+## Engineering Principles
+
 ```txt
-Languages:   TypeScript, JavaScript, Kotlin, Java, Python, SQL
-Backend:     Node.js, REST APIs, WebSockets, clean service architecture
-Frontend:    React, TypeScript, Redux
-Mobile:      Android, Kotlin, Java, Jetpack Compose
-Databases:   MongoDB, MySQL/PostgreSQL, Redis, Room
-Infra:       Linux, Docker, Nginx, Cloudflare, AWS EC2
-AI:          LLM APIs, RAG systems, voice agents, STT/TTS, VAD pipelines
-Security:    Auth systems, integrity validation, certificate parsing, API hardening
+Clear architecture      > clever code
+Reliability             > hype
+Explicit contracts      > hidden behavior
+Maintainability         > shortcuts
+Security by design      > security as an afterthought
+Production correctness  > demo-only happiness
 ```
 
 ---
 
-## What I Optimize For
-
-- Clear architecture over clever code
-- Reliability over hype
-- Explicit contracts over hidden behavior
-- Maintainability over shortcuts
-- Security by design, not as an afterthought
-- Cost-aware AI and infrastructure decisions
-- Systems that survive real production usage
-
----
-
-## System Design Style
+## System Design Taste
 
 ```txt
 Client / App
@@ -85,22 +115,14 @@ Repositories / Providers
 Database / Cache / External APIs
 ```
 
-Good architecture should make systems easier to change, not harder to understand. I like clean boundaries, explicit contracts, thoughtful trade-offs, and strong failure handling.
+Good architecture should make systems easier to change, not harder to understand.
 
 ---
 
-## Current Interests
+<div align="center">
 
-- Production-grade AI agents
-- Multi-tenant SaaS platforms
-- Realtime voice and conversation systems
-- Android product architecture
-- Security and integrity systems
-- Infrastructure automation
-- Caching, reliability, and API design
+### Currently interested in production-grade AI agents, multi-tenant SaaS, realtime voice systems, Android architecture, security, caching, and infrastructure automation.
 
----
+[GitHub](https://github.com/Lyrnic)
 
-## Contact
-
-GitHub: [@Lyrnic](https://github.com/Lyrnic)
+</div>
